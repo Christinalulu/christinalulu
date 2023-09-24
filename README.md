@@ -11,23 +11,24 @@ As  front-end developer, I possesses a deep undersatind of HTML, CSS and JavaScr
 
 
 ## Other Common Github Profile Sections
-😄 Pronouns... She/her
+😄 Pronouns. She/her
 
-📫 How to reach me... Send me a mail on christina.lu96@gmail.com.
+📫 How to reach me. Send me a mail on christina.lu96@gmail.com.
 
-🧠 I'm currently learning...Back-End
+🧠 I'm currently learning. Back-End
+
+👩‍💻 I'm currently playing around with React.js, framworks and more.
 
 
-👩‍💻 I'm currently working on...Currently no projects now.
-
-
-⚡️ Fun fact...I am a cat🐱 lover. I love traveling. Spends too mucj time coding.
+⚡️ Fun fact. I am a cat🐱 lover. I love traveling🏞️. Spends too much time coding👩‍💻.
 
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](//Link//)
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christina-lu-fugelsnes-2074b022a/)
+
+[![linkedin](https://img.shields.io/badge/github-8707ED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Christinalulu)
 
 
 
