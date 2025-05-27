@@ -24,7 +24,7 @@ As  front-end developer, I possesses a deep undersatind of HTML, CSS and JavaScr
 
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](//Link//)
+[![portfolio]([https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white](https://my-portfolio-five-lake.vercel.app/))](//Link//)
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christina-lu-fugelsnes-2074b022a/)
 
